@@ -10,3 +10,4 @@ For Example:
 - inline script module -> +page.js
 - route inheritance for layouts
 - error handling with +error.svelte
+- api route from /guides/index.json.js -> /api/guides/+server.js

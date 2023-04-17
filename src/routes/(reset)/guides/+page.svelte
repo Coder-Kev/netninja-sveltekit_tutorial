@@ -4,6 +4,8 @@
     const guides = data.guides
 </script>
 
+<h1>This Guide List Comes from a static API call</h1>
+<h3>Video:  SvelteKit Crash Course Tutorial #15 - API Routes</h3>
 <div class="guides">
     <ul>
         
