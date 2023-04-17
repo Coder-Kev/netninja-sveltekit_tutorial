@@ -2,8 +2,11 @@
 
 ## Did the course but chose the lastest and greatest Svelte Packages on install.
 
-Adapted the routes, layouts and errors to the new way of doing thinges
+Adapted the routes, layouts and errors to the new way of doing things in sveltekit
+
 For Example:
 - index.svelte -> +page.svelte
+- __layout.svelte -> +layout.svelte
+- inline script module -> +page.js
 - route inheritance for layouts
-- error handling
+- error handling with +error.svelte
